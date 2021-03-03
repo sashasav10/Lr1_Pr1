@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\2semLR1_Pr1\2semLR1_Pr1\bin\Debug\2semLR1_Pr1.exe.config
+C:\Users\user\source\repos\2semLR1_Pr1\2semLR1_Pr1\bin\Debug\2semLR1_Pr1.exe
+C:\Users\user\source\repos\2semLR1_Pr1\2semLR1_Pr1\bin\Debug\2semLR1_Pr1.pdb
+C:\Users\user\source\repos\2semLR1_Pr1\2semLR1_Pr1\obj\Debug\_2semLR1_Pr1.Form1.resources
+C:\Users\user\source\repos\2semLR1_Pr1\2semLR1_Pr1\obj\Debug\_2semLR1_Pr1.Properties.Resources.resources
+C:\Users\user\source\repos\2semLR1_Pr1\2semLR1_Pr1\obj\Debug\2semLR1_Pr1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\2semLR1_Pr1\2semLR1_Pr1\obj\Debug\2semLR1_Pr1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2semLR1_Pr1\2semLR1_Pr1\obj\Debug\2semLR1_Pr1.exe
+C:\Users\user\source\repos\2semLR1_Pr1\2semLR1_Pr1\obj\Debug\2semLR1_Pr1.pdb
